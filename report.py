@@ -6,8 +6,6 @@
 Решение задачи с помощью SQL - # https://www.sql.ru/forum/1159023-2/konverter-nedel-v-mesyac-na-sql
 '''
 
-from __future__ import division
-
 import os, sys, re, argparse
 import datetime, time
 import locale
